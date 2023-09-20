@@ -1,0 +1,14 @@
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\bin\Debug\net7.0\SegundoProyecto.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\bin\Debug\net7.0\SegundoProyecto.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\bin\Debug\net7.0\SegundoProyecto.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\bin\Debug\net7.0\SegundoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\bin\Debug\net7.0\SegundoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\SegundoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\SegundoProyecto.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\SegundoProyecto.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\SegundoProyecto.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\SegundoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\refint\SegundoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\SegundoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\SegundoProyecto.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SegundoProyecto\obj\Debug\net7.0\ref\SegundoProyecto.dll
