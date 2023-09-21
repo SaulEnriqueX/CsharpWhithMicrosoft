@@ -1,4 +1,5 @@
-﻿int firstValue = 500;
+﻿//Usando el metodo System.Math
+int firstValue = 500;
 int secondValue = 600;
 int largerValue;
 
