@@ -1,14 +1,14 @@
-# CsharpWhithMicrosoft
-En este repositorio se encuentran algunos proyectos de la ruta de aprendizaje de Microsoft con C#.
+# C# with Microsoft
+
+Este repositorio contiene una serie de proyectos correspondientes a la ruta de aprendizaje de Microsoft con C#.
+
 ## Nivel principiante
 
-1- Primer Proyecto
-Detectar el numero mayor con la clase Math y el metodo Max.
-Se utiliza el metodo Random
+1. **Primer Proyecto**
+   - Descripción: Detecta el número mayor utilizando la clase `Math` y el método `Max`. Se utiliza el método `Random`.
+   
+2. **Segundo Proyecto**
+   - Descripción: Repaso general de lo aprendido hasta el momento.
 
-2- Segundo Proyecto
-Se Hace un repaso de todo lo aprendido
-
-3- Tercer Proyecto
-Se Hace el juego de dados con if anidados if, else, if else
-Se utiliza un muevo metodo Contains de la clase String
+3. **Tercer Proyecto**
+   - Descripción: Juego de dados utilizando estructuras de control `if` anidadas (`if`, `else`, `if else`). Se utiliza el nuevo método `Contains` de la clase `String`.
