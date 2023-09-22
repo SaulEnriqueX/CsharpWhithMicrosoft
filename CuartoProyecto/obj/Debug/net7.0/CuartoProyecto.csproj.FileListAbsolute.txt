@@ -1,0 +1,14 @@
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\bin\Debug\net7.0\CuartoProyecto.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\bin\Debug\net7.0\CuartoProyecto.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\bin\Debug\net7.0\CuartoProyecto.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\bin\Debug\net7.0\CuartoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\bin\Debug\net7.0\CuartoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\CuartoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\CuartoProyecto.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\CuartoProyecto.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\CuartoProyecto.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\CuartoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\refint\CuartoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\CuartoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\CuartoProyecto.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\CuartoProyecto\obj\Debug\net7.0\ref\CuartoProyecto.dll
