@@ -11,3 +11,4 @@ Se Hace un repaso de todo lo aprendido
 
 3- Tercer Proyecto
 Se Hace el juego de dados con if anidados if, else, if else
+Se utiliza un muevo metodo Contains de la clase String
