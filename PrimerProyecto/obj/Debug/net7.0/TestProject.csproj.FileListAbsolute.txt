@@ -12,3 +12,17 @@ D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\TestProject\obj\
 D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
 D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
 D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\bin\Debug\net7.0\TestProject.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\bin\Debug\net7.0\TestProject.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\bin\Debug\net7.0\TestProject.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\bin\Debug\net7.0\TestProject.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\TestProject.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\refint\TestProject.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\TestProject.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\PrimerProyecto\obj\Debug\net7.0\ref\TestProject.dll
