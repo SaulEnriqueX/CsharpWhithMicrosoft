@@ -67,4 +67,4 @@ int resultado1 = c++ + d; // resultado1 será 16 (a se incrementa después de la
 int resultado2 = ++c + d; // resultado2 será 17 (a se incrementa antes de la operación)
 Console.WriteLine($"Primer Resultado de: {resultado1}\nSegundo Resultado de es :{resultado2}");
 
-Console.WriteLine("-----------------------------------------------------------");
+Console.WriteLine("----------------------------------------------------------");
