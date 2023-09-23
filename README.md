@@ -7,7 +7,7 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
 1. **Primer Proyecto**
    - Descripción: Detecta el número mayor utilizando la clase `Math` y el método `Max`.
    
-   - Se utiliza el método `Random`.
+   - Se utiliza la clase `Random`.
    
 2. **Segundo Proyecto**
    - Descripción: Repaso general de lo aprendido hasta el momento.
@@ -18,4 +18,8 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
    - Se utiliza el nuevo método `Contains` de la clase `String`.
   
 4. **Cuarto Proyecto**
-   - Descripción: Detecta si tu numero de licencia ya expiro mediante condicionales.
+   - Descripción: En este proyecto, se genera un número de licencia aleatorio utilizando la clase `Random` y su método `Next`. El programa también verifica si tu licencia ha expirado, proporcionando diferentes mensajes predeterminados según las condiciones 
+     establecidas.
+
+
+
