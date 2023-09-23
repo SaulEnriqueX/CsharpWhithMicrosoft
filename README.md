@@ -16,3 +16,6 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
    - Descripción: Juego de dados utilizando estructuras de control `if` anidadas (`if`, `else`, `if else`).
 
    - Se utiliza el nuevo método `Contains` de la clase `String`.
+  
+4. **Cuarto Proyecto**
+   - Descripción: Detecta si tu numero de licencia ya expiro mediante condicionales.
