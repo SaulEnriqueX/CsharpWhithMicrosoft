@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj": {}
+    "d:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj": {}
   },
   "projects": {
-    "D:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj": {
+    "d:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj",
+        "projectUniqueName": "d:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "D:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj",
+        "projectPath": "d:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Saul\\.nuget\\packages\\",
-        "outputPath": "D:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\obj\\",
+        "outputPath": "d:\\Cursos\\zAprendo los cursos\\C# whith Microsoft\\CsharpProjects\\PrimerProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saul\\AppData\\Roaming\\NuGet\\NuGet.Config",
