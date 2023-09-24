@@ -18,8 +18,8 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
    - Se utiliza el nuevo método `Contains` de la clase `String`.
   
 4. **Cuarto Proyecto**
-   - Descripción: En este proyecto, se genera un número de licencia aleatorio utilizando la clase `Random` y su método `Next`. El programa también verifica si tu licencia ha expirado, proporcionando diferentes mensajes predeterminados según las condiciones 
-     establecidas.
+   - Descripción: En este proyecto, se genera un número de licencia aleatorio utilizando la clase `Random` y su método `Next`. El programa también verifica si tu licencia ha expirado, proporcionando diferentes mensajes predeterminados según las 
+     condiciones establecidas.
 
 5. **Quinto Proyecto**
    - Descripción: En este proyecto, se utilizan las matrices, como primer paso se aprenden a declararlas, reasignarlas.
@@ -30,6 +30,10 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
    - Descripción: En este proyecto, se utiliza la estructura de control `foreach` para recorrer los datos de una matriz.
      
    - Se realiza un ejercicio donde se suma todos los valores de diferentes items de una matriz.
+  
+7. **Septimo Proyecto**
+   - Descripción: Este proyecto consiste en un desafío en el que se proporciona una matriz de elementos. El objetivo es identificar aquellos elementos que comienzan con la letra "B". Para lograr esto, se emplea un bucle `foreach` para recorrer los datos. 
+     Además, se utiliza una estructura de control `if` para establecer la condición de inicio con la letra especificada. Para este propósito, se hace uso del método `StartsWith` de la clase `String`.
 
  
 
