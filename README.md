@@ -21,5 +21,10 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
    - Descripción: En este proyecto, se genera un número de licencia aleatorio utilizando la clase `Random` y su método `Next`. El programa también verifica si tu licencia ha expirado, proporcionando diferentes mensajes predeterminados según las condiciones 
      establecidas.
 
+5. **Quinto Proyecto**
+   - Descripción: En este proyecto, se utilizan las matrices, como primer paso se aprenden a declararlas, reasignarlas.
+   
+   - Se utiliza la propiedad `Length` para las matrices.
+
 
 
