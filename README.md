@@ -27,7 +27,7 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
    - Se utiliza la propiedad `Length` para las matrices.
   
 6. **Sexto Proyecto**
-   - Descripción: En este proyecto, se utiliza la estructura de control `foreeach` para recorrer los datos de una matriz.
+   - Descripción: En este proyecto, se utiliza la estructura de control `foreach` para recorrer los datos de una matriz.
      
    - Se realiza un ejercicio donde se suma todos los valores de diferentes items de una matriz.
 
