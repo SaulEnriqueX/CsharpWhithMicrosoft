@@ -25,6 +25,13 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
    - Descripción: En este proyecto, se utilizan las matrices, como primer paso se aprenden a declararlas, reasignarlas.
    
    - Se utiliza la propiedad `Length` para las matrices.
+  
+6. **Sexto Proyecto**
+   - Descripción: En este proyecto, se utiliza la estructura de control `foreeach` para recorrer los datos de una matriz.
+     
+   - Se realiza un ejercicio donde se suma todos los valores de diferentes items de una matriz.
+
+ 
 
 
 
