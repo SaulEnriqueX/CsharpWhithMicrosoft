@@ -1,0 +1,14 @@
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\bin\Debug\net7.0\QuintoProyecto.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\bin\Debug\net7.0\QuintoProyecto.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\bin\Debug\net7.0\QuintoProyecto.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\bin\Debug\net7.0\QuintoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\bin\Debug\net7.0\QuintoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\QuintoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\QuintoProyecto.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\QuintoProyecto.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\QuintoProyecto.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\QuintoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\refint\QuintoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\QuintoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\QuintoProyecto.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\QuintoProyecto\obj\Debug\net7.0\ref\QuintoProyecto.dll
