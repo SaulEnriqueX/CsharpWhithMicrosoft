@@ -1,0 +1,14 @@
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\bin\Debug\net7.0\SextoProyecto.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\bin\Debug\net7.0\SextoProyecto.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\bin\Debug\net7.0\SextoProyecto.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\bin\Debug\net7.0\SextoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\bin\Debug\net7.0\SextoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\SextoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\SextoProyecto.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\SextoProyecto.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\SextoProyecto.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\SextoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\refint\SextoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\SextoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\SextoProyecto.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\SextoProyecto\obj\Debug\net7.0\ref\SextoProyecto.dll
