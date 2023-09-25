@@ -1,0 +1,14 @@
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\bin\Debug\net7.0\OctavoProyectoV2.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\bin\Debug\net7.0\OctavoProyectoV2.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\bin\Debug\net7.0\OctavoProyectoV2.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\bin\Debug\net7.0\OctavoProyectoV2.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\bin\Debug\net7.0\OctavoProyectoV2.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\OctavoProyectoV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\OctavoProyectoV2.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\OctavoProyectoV2.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\OctavoProyectoV2.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\OctavoProyectoV2.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\refint\OctavoProyectoV2.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\OctavoProyectoV2.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\OctavoProyectoV2.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\OctavoProyectoV2\obj\Debug\net7.0\ref\OctavoProyectoV2.dll
