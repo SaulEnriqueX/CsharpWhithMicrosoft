@@ -1,0 +1,14 @@
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\bin\Debug\net7.0\NovenoProyecto.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\bin\Debug\net7.0\NovenoProyecto.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\bin\Debug\net7.0\NovenoProyecto.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\bin\Debug\net7.0\NovenoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\bin\Debug\net7.0\NovenoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\NovenoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\NovenoProyecto.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\NovenoProyecto.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\NovenoProyecto.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\NovenoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\refint\NovenoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\NovenoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\NovenoProyecto.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\NovenoProyecto\obj\Debug\net7.0\ref\NovenoProyecto.dll
