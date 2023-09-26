@@ -36,7 +36,7 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
      Además, se utiliza una estructura de control `if` para establecer la condición de inicio con la letra especificada. Para este propósito, se hace uso del método `StartsWith` de la clase `String`.
 
 8. **Octavo Proyecto**
-   - Descripción: En este proyecto, se automatizara un proyecto utilizando `foreach` y `if`, `else`, `if else`, `[]`, se puede ver el antes y despues en las distintas versiones.
+   - Descripción: En este proyecto, se automatizara un proyecto utilizando `foreach` y `if`, `else`, `if else`, `[]`, se  puede ver el antes y despues en las distintas versiones.
      
    
 
