@@ -1,0 +1,14 @@
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\bin\Debug\net7.0\DecimoProyecto.exe
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\bin\Debug\net7.0\DecimoProyecto.deps.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\bin\Debug\net7.0\DecimoProyecto.runtimeconfig.json
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\bin\Debug\net7.0\DecimoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\bin\Debug\net7.0\DecimoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\DecimoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\DecimoProyecto.AssemblyInfoInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\DecimoProyecto.AssemblyInfo.cs
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\DecimoProyecto.csproj.CoreCompileInputs.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\DecimoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\refint\DecimoProyecto.dll
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\DecimoProyecto.pdb
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\DecimoProyecto.genruntimeconfig.cache
+D:\Cursos\zAprendo los cursos\C# whith Microsoft\CsharpProjects\DecimoProyecto\obj\Debug\net7.0\ref\DecimoProyecto.dll
