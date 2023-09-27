@@ -25,4 +25,5 @@ if (discountPercentage > 0)
 {
     Console.WriteLine($"Renew now and save {discountPercentage}%.");
 
+
 }
