@@ -24,5 +24,4 @@ else if (daysUntilExpiration <= 10)
 if (discountPercentage > 0)
 {
     Console.WriteLine($"Renew now and save {discountPercentage}%.");
-
 }
