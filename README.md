@@ -42,5 +42,3 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
 
  
 
-
-
