@@ -38,7 +38,3 @@ Este repositorio contiene una serie de proyectos correspondientes a la ruta de a
 8. **Octavo Proyecto**
    - Descripción: En este proyecto, se automatizara un proyecto utilizando `foreach` y `if`, `else`, `if else`, `[]`, se  puede ver el antes y despues en las distintas versiones.
      
-   
-
- 
-
